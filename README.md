@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-I'm Ishan from Bangalore/Pune <br><br>
+I'm Ishan from Bangalore/Pune and I study at RVCE <br><br>
 - 🔭 I’m looking for work as a Rust / Infra / Web-Dev / Fullstack / DevOps Engineer <br>
 - 📚 I'm currently learning Rust in depth along with Systems Design <br>
 - ⚡ In my free time I mostly just sleep lol <br>
